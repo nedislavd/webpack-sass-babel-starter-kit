@@ -1,0 +1,10 @@
+/* Helpers */
+@import './helpers/normalize';
+@import './helpers/variables';
+
+/* Components*/
+@import './components/common';
+
+/* Views */
+@import './views/home';
+@import './views/test_view.scss';
